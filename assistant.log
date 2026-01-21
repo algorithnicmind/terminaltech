@@ -1,0 +1,131 @@
+[2025-10-30 12:52:51] Assistant started
+[2025-10-30 12:55:11] Executed command: hello
+[2025-10-30 12:55:47] Error processing command: Usage: reminder <seconds> <message>
+[2025-10-30 12:56:49] Error processing command: Unknown command: helpcommand
+[2025-10-30 12:56:53] Error processing command: Unknown command: 
+[2025-10-30 12:56:54] Error processing command: Unknown command: 
+[2025-10-30 12:56:55] Error processing command: Unknown command: 
+[2025-10-30 12:56:56] Error processing command: Unknown command: 
+[2025-10-30 12:56:57] Error processing command: Unknown command: 
+[2025-10-30 13:02:43] Assistant started
+[2025-10-30 13:02:43] Executed command: help
+[2025-10-30 13:02:43] Executed command: hello
+[2025-10-30 13:02:43] Executed command: time
+[2025-10-30 13:02:43] Assistant shut down
+[2025-10-30 13:16:59] Assistant started
+[2025-10-30 13:17:06] Executed command: help
+[2025-10-30 13:17:26] Error processing command: Unknown command: histroy
+[2025-10-30 13:17:37] Error processing command: Unknown command: 
+[2025-10-30 13:17:40] Executed command: history
+[2025-10-30 13:17:48] Error processing command: Unknown command: 
+[2025-10-30 13:21:33] Assistant started
+[2025-10-30 13:21:33] Error processing command: Usage: login <username>
+[2025-10-30 13:21:33] Assistant shut down
+[2025-10-30 13:22:14] Assistant started
+[2025-10-30 13:22:14] User logged in: ankit
+[2025-10-30 13:22:14] Executed command: login ankit
+[2025-10-30 13:22:14] Assistant shut down
+[2025-10-30 13:23:15] Assistant started
+[2025-10-30 13:23:15] User logged in: ankit
+[2025-10-30 13:23:15] Executed command: login ankit
+[2025-10-30 13:23:15] Assistant shut down
+[2025-10-30 13:24:00] Assistant started
+[2025-10-30 13:24:00] User logged in: ankit
+[2025-10-30 13:24:00] Assistant shut down
+[2025-10-30 13:24:00] Executed command: login ankit
+[2025-10-30 13:26:10] Assistant started
+[2025-10-30 13:26:10] User logged in: ankit
+[2025-10-30 13:26:10] Executed command: login ankit
+[2025-10-30 13:26:10] Executed command: hello
+[2025-10-30 13:26:10] Assistant shut down
+[2025-10-30 13:28:02] Assistant started
+[2025-10-30 13:28:02] User logged in: ankit
+[2025-10-30 13:28:02] Executed command: login ankit
+[2025-10-30 13:28:02] Assistant shut down
+[2025-10-30 13:35:50] Assistant started
+[2025-10-30 13:36:41] Error processing command: Usage: login <username>
+[2025-10-30 13:36:57] User logged in: username
+[2025-10-30 13:36:57] Executed command: login username
+[2025-10-30 13:37:03] Error processing command: Unknown command: aman
+[2025-10-30 13:37:13] Error processing command: Unknown command: ankit
+[2025-10-30 13:37:14] Error processing command: Unknown command: 
+[2025-10-30 13:38:32] User logged in: ankit
+[2025-10-30 13:38:32] Executed command: login ankit
+[2025-10-30 13:38:46] User logged in: aman
+[2025-10-30 13:38:46] Executed command: login aman
+[2025-10-30 13:38:52] User logged out: aman
+[2025-10-30 13:38:52] Executed command: logout
+[2025-10-30 13:38:56] Error processing command: No user is logged in.
+[2025-10-30 13:39:05] Executed command: history
+[2025-10-30 13:39:14] Assistant shut down
+[2025-10-30 13:43:24] Assistant started
+[2025-10-30 13:44:39] Failed login attempt with username: aman
+[2025-10-30 13:45:12] Assistant started
+[2025-10-30 13:45:18] User logged in: ankit94
+[2025-10-30 13:45:25] Executed command: hello
+[2025-10-30 13:45:46] Error processing command: Unknown command: i
+[2025-10-30 13:45:49] Error processing command: Unknown command: 
+[2025-10-30 13:45:50] Error processing command: Unknown command: 
+[2025-10-30 13:45:53] Executed command: help
+[2025-10-30 14:05:51] Assistant started
+[2025-10-30 14:06:03] User logged in: ankit94
+[2025-10-30 14:06:24] Executed command: file list .
+[2025-10-30 14:06:57] Error processing command: Unknown command: 
+[2025-10-30 14:07:00] Executed command: system sleep
+[2025-10-30 14:21:19] Assistant started
+[2025-10-30 14:21:19] Failed login attempt with username: help
+[2025-10-30 14:21:34] Assistant started
+[2025-10-30 14:21:34] User logged in: ankit94
+[2025-10-30 14:21:34] Executed command: help
+[2025-10-30 14:21:34] Executed command: hello
+[2025-10-30 14:21:34] Executed command: time
+[2025-10-30 14:21:34] Assistant shut down
+[2025-10-30 14:22:10] Assistant started
+[2025-10-30 14:22:10] User logged in: ankit94
+[2025-10-30 14:22:10] Executed command: help
+[2025-10-30 14:22:10] Executed command: hello
+[2025-10-30 14:22:10] Executed command: time
+[2025-10-30 14:22:10] Executed command: date
+[2025-10-30 14:22:10] Assistant shut down
+[2025-10-30 14:22:10] Executed command: calculate 5 + 3
+[2025-10-30 14:27:20] Assistant started
+[2025-10-30 14:27:20] User logged in: ankit94
+[2025-10-30 14:27:20] Executed command: help
+[2025-10-30 14:27:20] Executed command: hello
+[2025-10-30 14:27:20] Executed command: time
+[2025-10-30 14:27:20] Executed command: date
+[2025-10-30 14:27:20] Assistant shut down
+[2025-10-30 14:27:20] Executed command: calculate 5 + 3
+[2025-10-30 14:27:40] Assistant started
+[2025-10-30 14:27:40] User logged in: ankit94
+[2025-10-30 14:27:40] Error processing command: Unknown command: logout
+[2025-10-30 14:27:40] Error processing command: Unknown command: invaliduser
+[2025-10-30 14:27:40] Assistant shut down
+[2025-10-30 14:28:12] Assistant started
+[2025-10-30 14:28:12] Failed login attempt with username: aman
+[2025-10-30 14:28:34] Assistant started
+[2025-10-30 14:28:35] User logged in: ankit94
+[2025-10-30 14:28:35] Assistant shut down
+[2025-10-30 14:28:35] Executed command: reminder 2 Test reminder
+[2025-11-01 16:56:20] Assistant started
+[2025-11-01 20:21:49] User logged in: ankit94
+[2025-11-01 20:23:05] Assistant started
+[2025-11-01 20:23:22] User logged in: ankit94
+[2025-11-01 20:23:42] Error processing command: Unknown command: add
+[2025-11-01 20:23:49] Executed command: help
+[2025-11-01 20:24:04] Executed command: time
+[2025-11-01 21:16:20] Assistant started
+[2025-11-01 22:12:28] Failed login attempt with username: ankit
+[2025-11-01 22:12:31] Assistant started
+[2025-11-01 22:12:36] User logged in: ankit94
+[2025-11-01 22:12:38] Executed command: help
+[2025-11-01 22:12:46] Executed command: hello
+[2025-11-01 22:12:51] Error processing command: Unknown command: 
+[2025-11-01 22:12:54] Executed command: time
+[2025-11-01 22:12:57] Executed command: date
+[2025-11-01 22:13:09] Executed command: open notepad
+[2025-11-01 22:13:24] Error processing command: Unsupported app: crome. Supported: notepad, chrome, calculator, explorer
+[2025-11-01 22:13:37] Executed command: open chrome
+[2025-11-01 22:14:34] Error processing command: Usage: file <operation> <filename> [content]
+[2025-11-01 22:14:54] Error processing command: Unsupported operation: operations. Supported: create, delete, list
+[2025-11-01 22:15:58] Assistant shut down
